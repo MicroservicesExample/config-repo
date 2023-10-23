@@ -1,0 +1,2 @@
+invoice:
+  greeting: "Welcome to the invoice service from Production config server!"
