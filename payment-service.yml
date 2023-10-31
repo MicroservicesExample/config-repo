@@ -1,2 +1,2 @@
 config:
-  invoice-service-uri: "http://localhost:8080"
+  invoice-service-uri: "http://invoice-service:8080"
